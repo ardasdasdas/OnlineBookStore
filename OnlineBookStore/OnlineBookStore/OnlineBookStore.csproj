@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{570F31E3-C7ED-4558-B625-7C47F4B871CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>OnlineBookStore</RootNamespace>
+    <AssemblyName>OnlineBookStore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dream_book_CGj_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp, Version=5.0.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\onlinebookstore\OnlineBookStore\OnlineBookStore\bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Book.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="Database.cs" />
+    <Compile Include="DbConnection.cs" />
+    <Compile Include="ItemToPurchase.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="LoginedUser.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Magazine.cs" />
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusicCD.cs" />
+    <Compile Include="PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentForm.Designer.cs">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pdf.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SaveOrder.cs" />
+    <Compile Include="ShoppingCart.cs" />
+    <Compile Include="SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpForm.Designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_AdminBook.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminBook.Designer.cs">
+      <DependentUpon>UC_AdminBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_AdminControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminControl.Designer.cs">
+      <DependentUpon>UC_AdminControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_AdminCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminCustomer.Designer.cs">
+      <DependentUpon>UC_AdminCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_AdminMagazine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminMagazine.Designer.cs">
+      <DependentUpon>UC_AdminMagazine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_AdminMusicCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_AdminMusicCD.Designer.cs">
+      <DependentUpon>UC_AdminMusicCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Book.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Book.designer.cs">
+      <DependentUpon>UC_Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Books.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Books.Designer.cs">
+      <DependentUpon>UC_Books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_CustomerSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_CustomerSettings.Designer.cs">
+      <DependentUpon>UC_CustomerSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Dashboard.Designer.cs">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Magazine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Magazine.Designer.cs">
+      <DependentUpon>UC_Magazine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Magazines.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Magazines.Designer.cs">
+      <DependentUpon>UC_Magazines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_MusicCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_MusicCD.Designer.cs">
+      <DependentUpon>UC_MusicCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_MusicCDs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_MusicCDs.Designer.cs">
+      <DependentUpon>UC_MusicCDs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_MyOrders.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_MyOrders.Designer.cs">
+      <DependentUpon>UC_MyOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ProductFactory.cs" />
+    <Compile Include="UC_ShoppingItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ShoppingItem.Designer.cs">
+      <DependentUpon>UC_ShoppingItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ShoppingList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ShoppingList.Designer.cs">
+      <DependentUpon>UC_ShoppingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util.cs" />
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentForm.resx">
+      <DependentUpon>PaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminBook.resx">
+      <DependentUpon>UC_AdminBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminControl.resx">
+      <DependentUpon>UC_AdminControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminCustomer.resx">
+      <DependentUpon>UC_AdminCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminMagazine.resx">
+      <DependentUpon>UC_AdminMagazine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_AdminMusicCD.resx">
+      <DependentUpon>UC_AdminMusicCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Book.resx">
+      <DependentUpon>UC_Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Books.resx">
+      <DependentUpon>UC_Books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_CustomerSettings.resx">
+      <DependentUpon>UC_CustomerSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Dashboard.resx">
+      <DependentUpon>UC_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Magazine.resx">
+      <DependentUpon>UC_Magazine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Magazines.resx">
+      <DependentUpon>UC_Magazines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_MusicCD.resx">
+      <DependentUpon>UC_MusicCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_MusicCDs.resx">
+      <DependentUpon>UC_MusicCDs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_MyOrders.resx">
+      <DependentUpon>UC_MyOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ShoppingItem.resx">
+      <DependentUpon>UC_ShoppingItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ShoppingList.resx">
+      <DependentUpon>UC_ShoppingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dream_book_CGj_icon.ico" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\shopping-cart.png" />
+    <None Include="Resources\basket.png" />
+    <None Include="Resources\BOOK-STORE.png" />
+    <None Include="Resources\arrow %281%29.png" />
+    <Content Include="Resources\book.png" />
+    <None Include="Resources\Wallet.png" />
+    <None Include="Resources\signUp-screen.jpg" />
+    <None Include="Resources\criss_cross.png" />
+    <None Include="Resources\criss_cross1.png" />
+    <None Include="Resources\Confirmation.png" />
+    <None Include="Resources\cvv.png" />
+    <None Include="Resources\button-basket-books-magazines-book_store-512.png" />
+    <None Include="Resources\dashboard.png" />
+    <None Include="Resources\books.png" />
+    <None Include="Resources\delivery-service.png" />
+    <Content Include="Resources\dream-book.png" />
+    <None Include="Resources\invoice.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\DREAM.png" />
+    <Content Include="Resources\login-screen-online-book-store.png" />
+    <Content Include="Resources\logout.png" />
+    <None Include="Resources\payment-book-left-panel2.png" />
+    <None Include="Resources\payment-book-right-panel2.png" />
+    <None Include="Resources\music %283%29.png" />
+    <None Include="Resources\magazine.png" />
+    <None Include="Resources\market.png" />
+    <Content Include="Resources\new-signUp-screen.jpg" />
+    <None Include="Resources\play-button.png" />
+    <Content Include="Resources\quit.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

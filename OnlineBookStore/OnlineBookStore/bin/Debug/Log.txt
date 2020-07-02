@@ -1,0 +1,342 @@
+Username                  Button Info                                        Date            Time           
+admin                     Click to Settings Button.                          31.05.2020      23:13:06       
+admin                     Click to Settings Button.                          31.05.2020      23:13:06       
+admin                     Clicked to Admin Book Button.                      31.05.2020      23:13:08       
+admin                     Click to My Cart Button.                           31.05.2020      23:13:14       
+admin                     Click to Settings Button.                          31.05.2020      23:13:14       
+admin                     Click to My Cart Button.                           31.05.2020      23:13:15       
+admin                     Click to Settings Button.                          31.05.2020      23:13:15       
+admin                     Click to My Cart Button.                           31.05.2020      23:13:17       
+admin                     Click to Settings Button.                          31.05.2020      23:13:17       
+admin                     Click to My Cart Button.                           31.05.2020      23:13:18       
+admin                     Click to Settings Button.                          31.05.2020      23:13:18       
+admin                     Clicked to Admin Book Button.                      31.05.2020      23:13:25       
+admin                     Clicked to Admin MusicCD Button.                   31.05.2020      23:13:31       
+admin                     Clicked to Admin Customer Button.                  31.05.2020      23:13:34       
+admin                     Clicked to Admin MusicCD Button.                   31.05.2020      23:13:35       
+admin                     Clicked to Admin Customer Button.                  31.05.2020      23:13:38       
+admin                     Click to My Orders Button.                         31.05.2020      23:15:02       
+admin                     Click to My Cart Button.                           31.05.2020      23:15:23       
+admin                     Click to Settings Button.                          31.05.2020      23:15:23       
+admin                     Click to Maimn Window Exit Button.                 31.05.2020      23:15:47       
+admin                     Click to Settings Button.                          31.05.2020      23:22:35       
+admin                     Clicked to Admin Customer Button.                  31.05.2020      23:22:37       
+admin                     Click to Maimn Window Exit Button.                 31.05.2020      23:23:37       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: 1984 Book Button. 1.06.2020       00:58:47       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: 1984 Book Button. 1.06.2020       00:58:47       
+onur                      Click to My Cart Button.                           1.06.2020       00:58:48       
+onur                      Clicked to CheckOut Button.                        1.06.2020       00:58:49       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       00:58:56       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Headline Agt Book Button. 1.06.2020       00:58:58       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Headline Agt Book Button. 1.06.2020       00:58:58       
+onur                      Click to My Orders Button.                         1.06.2020       00:59:01       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:01       
+onur                      Clicked to CheckOut Button.                        1.06.2020       00:59:03       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       00:59:04       
+onur                      Click to Dashboard button                          1.06.2020       00:59:05       
+onur                      Click to Books button                              1.06.2020       00:59:06       
+onur                      Click to Magazine button                           1.06.2020       00:59:06       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:07       
+onur                      Click to Settings Button.                          1.06.2020       00:59:07       
+onur                      Click to My Orders Button.                         1.06.2020       00:59:09       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:10       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Headline Agt Button. 1.06.2020       00:59:12       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:12       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Headline Agt Button. 1.06.2020       00:59:12       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:12       
+onur                      Clicked to CheckOut Button.                        1.06.2020       00:59:13       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       00:59:14       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       00:59:53       
+onur                      Click to My Cart Button.                           1.06.2020       00:59:54       
+onur                      Clicked to CheckOut Button.                        1.06.2020       00:59:55       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       00:59:58       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:00:23       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:00:23       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:00:23       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:00:23       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:00:23       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:24       
+onur                      Click to My Orders Button.                         1.06.2020       01:00:26       
+onur                      Click to Magazine button                           1.06.2020       01:00:26       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Life Begins Book Button. 1.06.2020       01:00:28       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Life Begins Book Button. 1.06.2020       01:00:28       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Life Begins Book Button. 1.06.2020       01:00:28       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:28       
+onur                      Clicked to Subtract from Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Button. 1.06.2020       01:00:34       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:34       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Button. 1.06.2020       01:00:34       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:34       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Button. 1.06.2020       01:00:35       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:35       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Life Begins Button. 1.06.2020       01:00:40       
+onur                      Click to My Cart Button.                           1.06.2020       01:00:40       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:00:42       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:00:48       
+onur                      Click to Dashboard button                          1.06.2020       01:00:51       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:01:22       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:01:22       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:01:22       
+onur                      Click to My Cart Button.                           1.06.2020       01:01:22       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:01:23       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:01:28       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:02:47       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:02:48       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:02:48       
+onur                      Click to My Cart Button.                           1.06.2020       01:02:48       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:02:50       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:02:55       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:03:26       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:03:27       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Bulunmam Gerek Book Button. 1.06.2020       01:03:27       
+onur                      Click to My Cart Button.                           1.06.2020       01:03:27       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:03:28       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:03:29       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:06:07       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:06:07       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:06:07       
+onur                      Click to My Cart Button.                           1.06.2020       01:06:08       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:06:09       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:06:10       
+onur                      Click to Dashboard button                          1.06.2020       01:06:10       
+onur                      Click to My Cart Button.                           1.06.2020       01:06:15       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:06:16       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:06:17       
+onur                      Click to Dashboard button                          1.06.2020       01:06:17       
+onur                      Click to My Cart Button.                           1.06.2020       01:06:19       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:07:16       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:07:16       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:07:16       
+onur                      Click to My Cart Button.                           1.06.2020       01:07:17       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:07:18       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:07:22       
+onur                      Click to Dashboard button                          1.06.2020       01:07:22       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Chamber of Secrets Book Button. 1.06.2020       01:08:14       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Chamber of Secrets Book Button. 1.06.2020       01:08:14       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Chamber of Secrets Book Button. 1.06.2020       01:08:14       
+onur                      Click to My Orders Button.                         1.06.2020       01:08:15       
+onur                      Click to My Cart Button.                           1.06.2020       01:08:15       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:08:16       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:08:18       
+onur                      Click to Dashboard button                          1.06.2020       01:08:18       
+onur                      Click to Settings Button.                          1.06.2020       01:08:19       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:09:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:09:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:09:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:09:40       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Acayipsin Book Button. 1.06.2020       01:09:41       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Acayipsin Book Button. 1.06.2020       01:09:41       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Acayipsin Book Button. 1.06.2020       01:09:42       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: AAAS Book Button. 1.06.2020       01:09:43       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: AAAS Book Button. 1.06.2020       01:09:43       
+onur                      Click to My Cart Button.                           1.06.2020       01:09:44       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:09:46       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:09:52       
+onur                      Click to Dashboard button                          1.06.2020       01:09:52       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       01:10:34       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       01:10:34       
+onur                      Click to My Cart Button.                           1.06.2020       01:10:35       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:10:36       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:10:37       
+onur                      Click to Dashboard button                          1.06.2020       01:10:37       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:11:27       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       01:11:27       
+onur                      Click to My Cart Button.                           1.06.2020       01:11:28       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:11:28       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:11:30       
+onur                      Click to Dashboard button                          1.06.2020       01:11:30       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       01:12:11       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       01:12:12       
+onur                      Click to My Cart Button.                           1.06.2020       01:12:12       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:12:13       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:12:15       
+onur                      Click to Dashboard button                          1.06.2020       01:12:15       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:12:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:12:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       01:12:40       
+onur                      Click to My Cart Button.                           1.06.2020       01:12:41       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:12:42       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:12:44       
+onur                      Click to Dashboard button                          1.06.2020       01:12:44       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       01:13:32       
+onur                      Click to Settings Button.                          1.06.2020       01:13:33       
+onur                      Click to My Cart Button.                           1.06.2020       01:13:34       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:13:34       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:15:37       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:15:37       
+onur                      Click to My Cart Button.                           1.06.2020       01:15:38       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:15:38       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:15:40       
+onur                      Click to Dashboard button                          1.06.2020       01:15:40       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:17:23       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       01:17:23       
+onur                      Click to My Cart Button.                           1.06.2020       01:17:23       
+onur                      Clicked to CheckOut Button.                        1.06.2020       01:17:24       
+onur                      Click to PaymentForm Back Button.                  1.06.2020       01:17:28       
+onur                      Click to Dashboard button                          1.06.2020       01:17:28       
+onur                      Click to Books button                              1.06.2020       01:39:51       
+onur                      Click to MusicCDs button                           1.06.2020       01:39:52       
+onur                      Click to Magazine button                           1.06.2020       01:39:53       
+onur                      Click to MusicCDs button                           1.06.2020       01:39:53       
+onur                      Click to Dashboard button                          1.06.2020       01:39:54       
+onur                      Click to Magazine button                           1.06.2020       01:39:54       
+onur                      Click to MusicCDs button                           1.06.2020       01:39:55       
+onur                      Click to Magazine button                           1.06.2020       01:39:55       
+onur                      Click to My Orders Button.                         1.06.2020       01:39:56       
+onur                      Click to My Cart Button.                           1.06.2020       01:39:56       
+onur                      Click to Settings Button.                          1.06.2020       01:39:57       
+onur                      Click to My Cart Button.                           1.06.2020       01:39:57       
+onur                      Click to Magazine button                           1.06.2020       01:39:57       
+onur                      Click to MusicCDs button                           1.06.2020       01:39:58       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       01:39:59       
+admin                     Click to Magazine button                           1.06.2020       01:45:34       
+admin                     Click to MusicCDs button                           1.06.2020       01:45:34       
+admin                     Click to Books button                              1.06.2020       01:45:35       
+admin                     Click to MusicCDs button                           1.06.2020       01:45:35       
+admin                     Click to Dashboard button                          1.06.2020       01:45:36       
+admin                     Click to Books button                              1.06.2020       01:45:36       
+admin                     Click to MusicCDs button                           1.06.2020       01:45:37       
+admin                     Click to Magazine button                           1.06.2020       01:45:37       
+admin                     Click to MusicCDs button                           1.06.2020       01:45:37       
+admin                     Click to Books button                              1.06.2020       01:45:38       
+admin                     Click to Magazine button                           1.06.2020       01:45:38       
+admin                     Click to My Orders Button.                         1.06.2020       01:45:39       
+admin                     Click to My Cart Button.                           1.06.2020       01:45:40       
+admin                     Click to Settings Button.                          1.06.2020       01:45:40       
+admin                     Click to Maimn Window Exit Button.                 1.06.2020       01:45:42       
+onur                      Click to My Orders Button.                         1.06.2020       01:47:27       
+onur                      Click to My Cart Button.                           1.06.2020       01:47:27       
+onur                      Click to Magazine button                           1.06.2020       01:47:28       
+onur                      Click to My Orders Button.                         1.06.2020       01:47:29       
+onur                      Click to My Cart Button.                           1.06.2020       01:47:29       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       01:47:31       
+onur                      Click to Settings Button.                          1.06.2020       01:49:10       
+onur                      Click to My Cart Button.                           1.06.2020       01:49:11       
+onur                      Click to My Orders Button.                         1.06.2020       01:49:11       
+onur                      Click to Magazine button                           1.06.2020       01:49:12       
+onur                      Click to MusicCDs button                           1.06.2020       01:49:13       
+onur                      Click to Books button                              1.06.2020       01:49:13       
+onur                      Click to Settings Button.                          1.06.2020       01:49:14       
+onur                      Click to Dashboard button                          1.06.2020       01:49:14       
+onur                      Click to Settings Button.                          1.06.2020       01:49:15       
+onur                      Click to My Cart Button.                           1.06.2020       01:49:15       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       01:49:17       
+onur                      Click to Settings Button.                          1.06.2020       01:50:58       
+onur                      Click to My Cart Button.                           1.06.2020       01:50:58       
+onur                      Click to My Orders Button.                         1.06.2020       01:50:59       
+onur                      Click to My Cart Button.                           1.06.2020       01:50:59       
+onur                      Click to Settings Button.                          1.06.2020       01:51:00       
+onur                      Click to My Orders Button.                         1.06.2020       01:51:01       
+onur                      Click to Settings Button.                          1.06.2020       01:51:02       
+onur                      Click to My Cart Button.                           1.06.2020       01:51:03       
+onur                      Click to Settings Button.                          1.06.2020       01:51:05       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       01:51:06       
+onur                      Click to Settings Button.                          1.06.2020       01:52:07       
+onur                      Click to My Cart Button.                           1.06.2020       01:52:07       
+onur                      Click to My Orders Button.                         1.06.2020       01:52:08       
+onur                      Click to Magazine button                           1.06.2020       01:52:08       
+onur                      Click to MusicCDs button                           1.06.2020       01:52:08       
+onur                      Click to Books button                              1.06.2020       01:52:09       
+onur                      Click to Dashboard button                          1.06.2020       01:52:09       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       01:52:11       
+eda                       Click to MusicCDs button                           1.06.2020       02:47:08       
+eda                       Clicked to Delete from Cart System.Windows.Forms.Label, Text: Mabel Matiz Book Button. 1.06.2020       02:47:11       
+eda                       Clicked to Delete from Cart System.Windows.Forms.Label, Text: Cardan Book Button. 1.06.2020       02:47:13       
+eda                       Click to Magazine button                           1.06.2020       02:47:14       
+eda                       Click to Books button                              1.06.2020       02:47:15       
+eda                       Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Half-Blood Prince Book Button. 1.06.2020       02:47:19       
+eda                       Click to Magazine button                           1.06.2020       02:47:21       
+eda                       Clicked to Add to Cart System.Windows.Forms.Label, Text: Headline Agt Book Button. 1.06.2020       02:47:25       
+eda                       Click to My Cart Button.                           1.06.2020       02:47:27       
+eda                       Clicked to CheckOut Button.                        1.06.2020       02:47:29       
+eda                       Click to CreditCard radio button.                  1.06.2020       02:48:06       
+eda                       Click to PTT Cargo Radio Button.                   1.06.2020       02:48:08       
+eda                       Click to Cargo Company Radio Button.               1.06.2020       02:48:08       
+eda                       Click to Yurtici Confirmation Button.              1.06.2020       02:48:29       
+eda                       Click to PaymentForm Back Button.                  1.06.2020       02:49:01       
+eda                       Click to Dashboard button                          1.06.2020       02:49:01       
+eda                       Click to Log Out button                            1.06.2020       02:49:02       
+admin                     Click to Settings Button.                          1.06.2020       02:50:15       
+admin                     Clicked to Admin Customer Button.                  1.06.2020       02:50:16       
+admin                     Click to My Cart Button.                           1.06.2020       02:50:43       
+admin                     Click to Settings Button.                          1.06.2020       02:50:44       
+admin                     Click to My Orders Button.                         1.06.2020       02:50:44       
+admin                     Click to Magazine button                           1.06.2020       02:50:44       
+admin                     Click to MusicCDs button                           1.06.2020       02:50:45       
+admin                     Click to Books button                              1.06.2020       02:50:45       
+admin                     Click to Dashboard button                          1.06.2020       02:50:46       
+admin                     Click to Maimn Window Exit Button.                 1.06.2020       02:50:48       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: 1984 Book Button. 1.06.2020       05:43:04       
+onur                      Click to Magazine button                           1.06.2020       05:43:05       
+onur                      Click to Magazine button                           1.06.2020       05:43:07       
+onur                      Click to My Orders Button.                         1.06.2020       05:43:07       
+onur                      Click to My Cart Button.                           1.06.2020       05:43:08       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:43:19       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       05:45:06       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: View Of A Nonsense Book Button. 1.06.2020       05:45:07       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Vogue Book Button. 1.06.2020       05:45:08       
+onur                      Click to My Cart Button.                           1.06.2020       05:45:14       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:45:54       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       05:48:48       
+onur                      Click to My Cart Button.                           1.06.2020       05:48:49       
+onur                      Click to My Orders Button.                         1.06.2020       05:48:53       
+onur                      Click to Books button                              1.06.2020       05:48:54       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       05:48:55       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: The Little Prince Book Button. 1.06.2020       05:48:55       
+onur                      Click to My Cart Button.                           1.06.2020       05:48:55       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:48:58       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Acayipsin Book Button. 1.06.2020       05:50:06       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Clockwork Orange Book Button. 1.06.2020       05:50:07       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:08       
+onur                      Clicked to Cancel All Product Button.              1.06.2020       05:50:11       
+onur                      Click to My Orders Button.                         1.06.2020       05:50:13       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:15       
+onur                      Click to MusicCDs button                           1.06.2020       05:50:17       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Mabel Matiz Book Button. 1.06.2020       05:50:19       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:19       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Mabel Matiz Button. 1.06.2020       05:50:20       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:20       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Mabel Matiz Button. 1.06.2020       05:50:21       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:21       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Mabel Matiz Button. 1.06.2020       05:50:21       
+onur                      Click to My Cart Button.                           1.06.2020       05:50:21       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:50:23       
+onur                      Click to MusicCDs button                           1.06.2020       05:53:02       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Mabel Matiz Book Button. 1.06.2020       05:53:03       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Mabel Matiz Book Button. 1.06.2020       05:53:03       
+onur                      Clicked to Delete from Cart System.Windows.Forms.Label, Text: Mabel Matiz Book Button. 1.06.2020       05:53:04       
+onur                      Click to My Orders Button.                         1.06.2020       05:53:05       
+onur                      Click to MusicCDs button                           1.06.2020       05:53:05       
+onur                      Click to Magazine button                           1.06.2020       05:53:05       
+onur                      Click to My Cart Button.                           1.06.2020       05:53:43       
+onur                      Clicked to CheckOut Button.                        1.06.2020       05:53:45       
+onur                      Click to CreditCard radio button.                  1.06.2020       05:53:49       
+onur                      Click to Yurtici Cargo Radio Button.               1.06.2020       05:53:54       
+onur                      Click to Cargo Company Radio Button.               1.06.2020       05:53:54       
+onur                      Click to Confirmation Button.                      1.06.2020       05:54:06       
+onur                      Click to My Orders Button.                         1.06.2020       05:54:22       
+onur                      Click to Magazine button                           1.06.2020       05:54:23       
+onur                      Click to My Cart Button.                           1.06.2020       05:54:24       
+onur                      Click to Settings Button.                          1.06.2020       05:54:27       
+onur                      Click to My Cart Button.                           1.06.2020       05:54:27       
+onur                      Click to My Orders Button.                         1.06.2020       05:54:30       
+onur                      Click to My Cart Button.                           1.06.2020       05:54:33       
+onur                      Click to My Orders Button.                         1.06.2020       05:54:33       
+onur                      Click to My Cart Button.                           1.06.2020       05:54:34       
+onur                      Clicked to Cancel System.Windows.Forms.Label, Text: Mabel Matiz Button. 1.06.2020       05:54:42       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:54:45       
+onur                      Clicked to Add to Cart System.Windows.Forms.Label, Text: Harry Potter and the Philosopher’s Stone Book Button. 1.06.2020       05:58:22       
+onur                      Click to My Cart Button.                           1.06.2020       05:58:23       
+onur                      Clicked to CheckOut Button.                        1.06.2020       05:58:26       
+onur                      Click to CreditCard radio button.                  1.06.2020       05:58:28       
+onur                      Click to PTT Cargo Radio Button.                   1.06.2020       05:58:31       
+onur                      Click to Cargo Company Radio Button.               1.06.2020       05:58:31       
+onur                      Click to Confirmation Button.                      1.06.2020       05:58:45       
+onur                      Click to Maimn Window Exit Button.                 1.06.2020       05:58:56       
+admin                     Click to Books button                              2.07.2020       16:37:43       
+admin                     Click to MusicCDs button                           2.07.2020       16:37:44       
+admin                     Click to Magazine button                           2.07.2020       16:37:45       
+admin                     Click to My Orders Button.                         2.07.2020       16:37:45       
+admin                     Click to My Cart Button.                           2.07.2020       16:37:46       
+admin                     Click to My Orders Button.                         2.07.2020       16:37:47       
+admin                     Click to My Cart Button.                           2.07.2020       16:37:47       
+admin                     Click to Main Window Exit Button.                  2.07.2020       16:37:48       
