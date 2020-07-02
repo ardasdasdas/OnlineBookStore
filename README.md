@@ -19,4 +19,17 @@ If the person who using the application does not have an account, she/he is dire
 
 ![sign_up](https://user-images.githubusercontent.com/53192718/86367622-de546800-bc84-11ea-83a6-c4f28da0f96f.png)
 
+### 2.2 Dashboard Screen
+MainWindow’s load function load the products from database and customer see randomly products on dashboard, under the title “Editor’s choices”. Header has an animated text for welcome, it says good morning, good evening, good night depending on time.
+
+![dashboard](https://user-images.githubusercontent.com/53192718/86367821-1c518c00-bc85-11ea-801b-e90fe18290d9.png)
+
+### 2.3 Books Screen
+![books screen](https://user-images.githubusercontent.com/53192718/86368086-73576100-bc85-11ea-803f-3b058d8d5402.png)
+
+### 2.4 Music CDs Screen
+When the customer clicks the Play icon which resides on the musicCD panels, a sample song is played for him/her.
+
+![MusicCd's screen](https://user-images.githubusercontent.com/53192718/86368118-7fdbb980-bc85-11ea-9f91-3b12b9d46ec6.png)
+
 
