@@ -1,5 +1,10 @@
 # OnlineBookStore
-## 1. INTRODUCTION
+
+## [1 - INTRODUCTION](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#1-introduction)
+## [2 - DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
+## [3 - DATABASE](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#3-databse)
+
+## INTRODUCTION
 Online Book Store is a desktop application where books, music and magazines are ordered by customers.
 Customers can access product information. For book such as book name, ISBN number, the author, the publisher, the page number, total price. For magazine such as magazine name, the issue, the type of the magazine, total price. For musicCD such as the name of the singer, the type of the music, total price.
 When registering to the application, the customer enters a unique user name, name, password, address and a valid email address, and can change her/his password on the settings panel if she/he wishes. 
