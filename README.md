@@ -1,8 +1,9 @@
 # OnlineBookStore
 
-## [1 - INTRODUCTION](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#1-introduction)
-## [2 - DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
-## [3 - DATABASE](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#3-databse)
+## 1 - [INTRODUCTION](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#1-introduction)
+## 2 - [DESIGN](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#2-design)
+## 3 - [DATABASE](https://github.com/ardasdasdas/OnlineBookStore/blob/master/README.md#3-databse)
+## 4 - [UML]
 
 ## INTRODUCTION
 Online Book Store is a desktop application where books, music and magazines are ordered by customers.
@@ -89,6 +90,17 @@ A database table named Tbl Customer has been created to hold user data. For the 
 
 You can set our database on your computer from [here](https://github.com/ardasdasdas/OnlineBookStore/tree/master/DatabaseCreationScript).
 After creating you have to get your SQL connection string, after that you have to enter 28th column in [DbConnection.cs](https://github.com/ardasdasdas/OnlineBookStore/blob/master/OnlineBookStore/OnlineBookStore/DbConnection.cs) class.
+
+## 4. UML
+![UML](https://user-images.githubusercontent.com/53192718/86370686-b5ce6d00-bc88-11ea-809f-95d734edb2ac.png)
+
+## Patterns That We Used
+Since we wanted to ensure that only one object from our customer class was created in the application we will do, we applied **Singleton Design Pattern**. This customer object, which we will create in our application with ***Singleton Design Pattern***, will prevent the creation of a second customer object thanks to Singleton Pattern.
+While creating a User Control according to the added product in our project, we used **Factory Design Pattern** so that the user does not change the code in every choice. Added product's type determines User Control's type.
+Also we could use **Proxy Design Pattern**, but we had no time.
+
+## 5. THE WORKS OF TEAM MEMBERS
+![THE WORKS OF TEAM MEMBERS](https://user-images.githubusercontent.com/53192718/86371125-368d6900-bc89-11ea-8f31-8fd04466d18a.png)
 
 
 
