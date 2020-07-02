@@ -32,4 +32,26 @@ When the customer clicks the Play icon which resides on the musicCD panels, a sa
 
 ![MusicCd's screen](https://user-images.githubusercontent.com/53192718/86368118-7fdbb980-bc85-11ea-9f91-3b12b9d46ec6.png)
 
+### 2.5 Magazines Screen
+![magazines screen](https://user-images.githubusercontent.com/53192718/86368308-b4e80c00-bc85-11ea-8aa3-273ae344d2a5.png)
+
+### 2.6 My Orders Screen
+Customer can see his/her order history on this screen with details.
+
+![2 5 My Orders Screen](https://user-images.githubusercontent.com/53192718/86368441-d77a2500-bc85-11ea-8aca-77626c4bd5d3.png)
+
+### 2.7 My Cart Screen
+This screen for customer’s shopping cart. User can see and do actions all products on his/her cart on that screen.
+
+![2 5 My Orders Screen](https://user-images.githubusercontent.com/53192718/86368633-1019fe80-bc86-11ea-9d25-78687a7c9e10.png)
+
+### 2.8 Payment Screen
+Personal information section automaticlly filled from database without phone number. When customer select and fill all the necessary sections, he/she can see total payment on the screen with taxes and shipping fee. When its done, the invoice appear on the screen and it will send to customer’s mail address on pdf form rapidly.
+
+![2 7 Payment Screen](https://user-images.githubusercontent.com/53192718/86368798-43f52400-bc86-11ea-9b5e-f33e14372736.png)
+
+
+### 2.9 Mail Example
+![2 8 Mail Example](https://user-images.githubusercontent.com/53192718/86368893-6be48780-bc86-11ea-9d6e-f7ea42a8cf68.png)
+
 
