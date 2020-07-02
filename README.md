@@ -13,7 +13,10 @@ Admin can add, delete, update books, magazines and musicCDs also list product in
 Customer can't access the product change interface that admin can access. 
 ## 2.DESIGN
 ### 2.1 Login Screen && Sign Up
-![login](https://user-images.githubusercontent.com/53192718/86367321-7736b380-bc84-11ea-9144-977db4673c0b.png)
+![login](https://user-images.githubusercontent.com/53192718/86367562-c67ce400-bc84-11ea-9d69-106a6af89437.png)
+
 If the person who using the application does not have an account, she/he is directed to the registration screen via the create account link label to create an account. Admin can’t access the users’ password. Passwords are kept encrypted form in database after user registration. If customer has an account, if username and password that entered the textboxes matches customer’s information on database(sql) he/she logged in.
-![sign_up](https://user-images.githubusercontent.com/53192718/86367417-97667280-bc84-11ea-96f0-e5719f21db4d.png)
+
+![sign_up](https://user-images.githubusercontent.com/53192718/86367622-de546800-bc84-11ea-83a6-c4f28da0f96f.png)
+
 
