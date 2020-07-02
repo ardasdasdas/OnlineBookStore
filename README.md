@@ -106,6 +106,8 @@ Also we could use **Proxy Design Pattern**, but we had no time.
 * [Muzaffer Arda Uslu](https://github.com/ardasdasdas)
 * [Eda Çam](https://github.com/edacaam)
 * [Onur Akkepenek](https://github.com/OnurAkkepenekk)
+* Aleyne Işıkdağlılar
+* Berkay Gönenç Göksal
 
 
 
