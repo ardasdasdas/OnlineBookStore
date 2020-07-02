@@ -1,5 +1,5 @@
 # OnlineBookStore
-## 1.INTRODUCTION
+## 1. INTRODUCTION
 Online Book Store is a desktop application where books, music and magazines are ordered by customers.
 Customers can access product information. For book such as book name, ISBN number, the author, the publisher, the page number, total price. For magazine such as magazine name, the issue, the type of the magazine, total price. For musicCD such as the name of the singer, the type of the music, total price.
 When registering to the application, the customer enters a unique user name, name, password, address and a valid email address, and can change her/his password on the settings panel if she/he wishes. 
@@ -11,7 +11,7 @@ Passwords are saved to the database in encrypted form for customer security.
 There is only one admin in the application. (U:admin / P:admin)
 Admin can add, delete, update books, magazines and musicCDs also list product information from the settings panel in the application.
 Customer can't access the product change interface that admin can access. 
-## 2.DESIGN
+## 2. DESIGN
 ### 2.1 Login Screen && Sign Up
 ![login](https://user-images.githubusercontent.com/53192718/86367562-c67ce400-bc84-11ea-9d69-106a6af89437.png)
 
@@ -56,5 +56,34 @@ Personal information section automaticlly filled from database without phone num
 
 ### 2.10 Invoice Example
 ![2 9 Invoice Example](https://user-images.githubusercontent.com/53192718/86369071-a0f0da00-bc86-11ea-86a3-280103e57756.png)
+
+### 2.11 Admin Screen for Books
+Admin can add, list, delete and update all the products on this panels. Also, admin can see all the customers on customer list.
+
+![2 10 Admin Screen for Books](https://user-images.githubusercontent.com/53192718/86369348-fa590900-bc86-11ea-8896-912db1614066.png)
+
+### 2.12 Admin Screen for Music CDs
+![2 12 Admin Screen for MusicCDs](https://user-images.githubusercontent.com/53192718/86369458-24123000-bc87-11ea-8f75-d61d57b94f4f.png)
+
+### 2.13 Admin Screen for Magazines
+![Admin Screen for Magazines](https://user-images.githubusercontent.com/53192718/86369496-33917900-bc87-11ea-98b2-b6952b14b268.png)
+
+### 2.14 Admin Screen to see Customer List
+![Admin Screen for see Customer List](https://user-images.githubusercontent.com/53192718/86369569-502db100-bc87-11ea-988c-c2b493d70ec2.png)
+
+### 2.15 Settings Screen for Customers
+If loginned user is not an admin, settings panel looking like this. Customers can change their informations with password confirmation.
+
+![2 14 Settings Screen for Customers](https://user-images.githubusercontent.com/53192718/86369653-6b98bc00-bc87-11ea-87ed-b1bbfaf4517e.png)
+
+## 3. Databse 
+The data were kept in the online MsSQL database. For this, an online database has been created in Microsoft Azure account. All users who have access to the database have access, that is, the program can be run without the need for extra installation, but still the database creation script has been added under version control. 
+A database table named Tbl Customer has been created to hold user data. For the products, 3 separate database tables named Tbl_Book, Tbl_Magazine and Tbl_Music have been created. For past orders, the Tbl_Bill and Tbl_BillProduct table have been created. The tables in the database and their relations are as follows. Database connection of the project added DbConnection class.
+
+![database](https://user-images.githubusercontent.com/53192718/86369780-9256f280-bc87-11ea-9292-eb1e633184df.png)
+
+You can set our database on your computer from [here](https://github.com/ardasdasdas/OnlineBookStore/tree/master/DatabaseCreationScript).
+After creating you have to get your SQL connection string, after that you have to enter 28th column in [DbConnection.cs](https://github.com/ardasdasdas/OnlineBookStore/blob/master/OnlineBookStore/OnlineBookStore/DbConnection.cs) class.
+
 
 
