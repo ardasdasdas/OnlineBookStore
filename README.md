@@ -50,7 +50,7 @@ Customer can see his/her order history on this screen with details.
 ### 2.7 My Cart Screen
 This screen for customer’s shopping cart. User can see and do actions all products on his/her cart on that screen.
 
-![2 5 My Orders Screen](https://user-images.githubusercontent.com/53192718/86368633-1019fe80-bc86-11ea-9d25-78687a7c9e10.png)
+![my cart](https://user-images.githubusercontent.com/53192718/86510030-1c709980-bdf5-11ea-86ad-2a21828ba9b3.png)
 
 ### 2.8 Payment Screen
 Personal information section automaticlly filled from database without phone number. When customer select and fill all the necessary sections, he/she can see total payment on the screen with taxes and shipping fee. When its done, the invoice appear on the screen and it will send to customer’s mail address on pdf form rapidly.
